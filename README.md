@@ -4,7 +4,11 @@
     </h1>
 </div>
 
-[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surajjberaa&theme=dracula)](https://github.com/Surajjberaa)
+<p align="center" >
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surajjberaa&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=Activity+last+30+days&area=true">
+<br></br>
+<img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=Surajjberaa&theme=midnight-purple&hide_border=false'/>
+</p>
 
 <!--
 **Surajjberaa/Surajjberaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
