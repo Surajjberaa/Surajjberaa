@@ -4,6 +4,8 @@
     </h1>
 </div>
 
+[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surajjberaa&theme=dracula)](https://github.com/Surajjberaa)
+
 <!--
 **Surajjberaa/Surajjberaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
